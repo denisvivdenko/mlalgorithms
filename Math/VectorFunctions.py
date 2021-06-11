@@ -1,5 +1,5 @@
 import math
-from Vector import Vector
+from Math.Vector import Vector
 
 
 def add_vectors(vector1: Vector, vector2: Vector):
