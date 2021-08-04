@@ -5,6 +5,7 @@ __pycache__/
 *.idea/
 *paths.json
 *datasets/
+*venv/
 
 # C extensions
 *.so

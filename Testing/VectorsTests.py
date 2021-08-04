@@ -1,5 +1,5 @@
-from Vector import Vector
-from VectorFunctions import *
+from Math.Vector import Vector
+from Math.VectorFunctions import *
 
 vector1 = Vector([1, 3])
 vector2 = Vector([2, 5])
